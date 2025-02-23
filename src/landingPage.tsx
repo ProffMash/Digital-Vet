@@ -218,16 +218,14 @@ function LandingPage() {
                 <Phone className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
-                  <p className="text-gray-600">Main: (555) 123-4567</p>
-                  <p className="text-gray-600">Emergency: (555) 987-6543</p>
+                  <p className="text-gray-600">0759 651 886</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Mail className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
-                  <p className="text-gray-600">info@pawcarevet.com</p>
-                  <p className="text-gray-600">emergency@pawcarevet.com</p>
+                  <p className="text-gray-600">accadiasnjeru@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
